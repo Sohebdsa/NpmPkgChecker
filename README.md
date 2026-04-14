@@ -21,16 +21,16 @@ Scan NPM packages for risky dependencies, vulnerabilities, similarity issues, an
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/1000x600/1e293b/ffffff?text=Dashboard+Overview)
+![Dashboard](./ss/home.png)
 
 ### Search & Results
-![Search](https://via.placeholder.com/1000x600/1e293b/ffffff?text=Search+%26+Results+Tree)
+![Search](./ss/main.png)
 
 ### Dependency Graph
-![Graph](https://via.placeholder.com/1000x600/1e293b/ffffff?text=Interactive+Dependency+Graph)
+![Graph](./ss/graph.pngh)
 
 ### Risk Badges & Code Viewer
-![Risks](https://via.placeholder.com/1000x400/1e293b/ffffff?text=Risk+Badges+%26+Syntax-Highlighted+Code)
+![Risks](./ss/finding.png)
 
 ## 🚀 Quickstart
 
