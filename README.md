@@ -100,5 +100,5 @@ MIT – See [LICENSE](LICENSE)
 
 ---
 
-*Built with ❤️ by [Your Name] – v1.0.0*
+*Built with ❤️ by [V3nom] – v1.0.0*
 
