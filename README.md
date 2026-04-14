@@ -5,7 +5,7 @@
 **Advanced NPM Package Dependency Scanner & Risk Analyzer**  
 Scan NPM packages for risky dependencies, vulnerabilities, similarity issues, and visualize dependency graphs with interactive dashboard.
 
-![Demo GIF](./ss/loop.ezgif)  
+![Demo GIF](./ss/loop.gif)  
 *Scanning NPM package and generating risk report*
 
 ## ✨ Features
